@@ -1,11 +1,4 @@
-h2.intro {
+.intro {
   background-color: goldenrod;
-}
-
-p.intro {
-  background-color: rgb(241, 226, 14);
-}
-
-img.intro {
   border-radius: 8px;
 }
